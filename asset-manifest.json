@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TreasureHunt/static/css/main.b49d6a78.css",
+    "main.js": "/TreasureHunt/static/js/main.67f9d94c.js",
+    "static/media/emergebg.jpg": "/TreasureHunt/static/media/emergebg.9e3d4f6e5174ea9f9457.jpg",
+    "static/media/CIVISTAbg.jpg": "/TreasureHunt/static/media/CIVISTAbg.ee2cc23a3898b58881bd.jpg",
+    "static/media/MECHAURAbg.jpg": "/TreasureHunt/static/media/MECHAURAbg.01dfebfd57fbf1632359.jpg",
+    "static/media/RADIANCEbg.jpg": "/TreasureHunt/static/media/RADIANCEbg.a8f4f3606be4c880d876.jpg",
+    "index.html": "/TreasureHunt/index.html",
+    "main.b49d6a78.css.map": "/TreasureHunt/static/css/main.b49d6a78.css.map",
+    "main.67f9d94c.js.map": "/TreasureHunt/static/js/main.67f9d94c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b49d6a78.css",
+    "static/js/main.67f9d94c.js"
+  ]
+}
